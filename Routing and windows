@@ -1,0 +1,4 @@
+set fw01 \ sys265 wan \ look at my ip addres ah sheet \ adapter 2 at lan faisal \set the network setting  \
+wks01 \lan faisal \nmtui to change network setting  and host name \
+ad01 \lan faisal\use sconfig to change network setting .
+mgmt01 \ use sconfig to change network setting\ add features \add ad01 by server manger \ creat AD user (normal and adm ) creat revers lookup zone  creat PTR  record  log out and log in
