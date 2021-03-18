@@ -1,0 +1,12 @@
+install netplan and config the file called 00-installer-config.yaml
+Add PTR recourd to dns 
+adduser name sudo and disaple remote root ssh
+run install docker on ubunto and check the status.
+use docker run to print hello world 
+run sudo install docker-compose --version to see the version 
+run sudo docker run --rm archlinux:latest /bin/echo "Hello world"
+run docker images to see the images that i have 
+run sudo docker run -it archlinux /bin/uname -a to displayed the comtainer 
+run docker run -d -P training/webapp python app.py to pull down the appication that associated with sample pythone web application 
+run docker ps to see the docker network
+run docker stop "testapp" to stop the test app
