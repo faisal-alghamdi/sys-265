@@ -1,0 +1,15 @@
+install git on docker 
+do git clone url \
+creat the dir by mkdir 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+git add file name 
+git commit -m "discraption"
+git push
+i can cheack the status by git status 
+by cat i can see the file data
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+downlaod git on windows 64-bit
+login by username and password 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+creat ssh key and do cp ~/.ssh/id_rsa.pub
+log in by ssh to docker01-faisal
