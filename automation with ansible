@@ -1,1 +1,4 @@
 
+nslookup controller-faisal ad01-faisal
+install ansible : sudo apt install ansible python3-paramiko 
+creat /etc/sudors.d/sys265 ALL=(ALL)
