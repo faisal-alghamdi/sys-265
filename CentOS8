@@ -1,1 +1,9 @@
 
+nmtui to set the network setting 
+disable the root ssh from the conf file 
+to change the ip address use nmcli con mod ens192 ipv4.addresses 10.0.5.243/24  
+open the port 9090 tcp 
+brawse centos linux gui
+join by faisal.alghamdi-adm@faisal.local and use faisal.alghamdi-adm password 
+add dashboard by command sudo dnf install cockpit-dashboard
+add other ansible1 to dashboard 
